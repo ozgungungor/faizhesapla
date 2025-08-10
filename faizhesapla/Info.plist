@@ -6,5 +6,9 @@
 	<array>
 		<string>remote-notification</string>
 	</array>
+	<key>GADApplicationIdentifier</key>
+	<string>ca-app-pub-4244659004257886~2678732633</string>
+	<key>SKAdNetworkItems</key>
+	<string></string>
 </dict>
 </plist>
